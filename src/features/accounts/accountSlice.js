@@ -1,5 +1,3 @@
-import store from "../../store";
-
 const initialAccountState = {
   balance: 0,
   loan: 0,
